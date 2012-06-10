@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <title>app</title>
+        <link rel="stylesheet" type="text/css" href="./estilos.css"/>
+        <script type="text/javascript" src="./app.js"></script>
+    </head>
+    <body>
+        <!--
+        closures: http://www.quizzpot.com/2009/03/que-son-los-closures/#comment-40099
+        -->
+        <div id="pages" class="consola">
+            <input type="button" value="first" id="pages-first" title="solo una pagina"/>
+            <input type="button" value="-1" id="pages-atras"/> 
+            <input id="pages-range" type="range" value="0" max="11" min="0">  
+            <input type="button" value="+1" id="pages-adelante"/>      
+            <input type="button" value="end" id="pages-end" title="gran proyecto"/>    
+            <em>|</em>
+            <input type="button" value="0" name="pagina_nro" />
+            <input type="button" value="1" name="pagina_nro" />
+            <input type="button" value="2" name="pagina_nro" />
+            <input type="button" value="3" name="pagina_nro" />
+            <input type="button" value="4" name="pagina_nro" />
+            <input type="button" value="5" name="pagina_nro" />
+            <input type="button" value="6" name="pagina_nro" />
+            <input type="button" value="7" name="pagina_nro" />
+            <input type="button" value="8" name="pagina_nro" />
+            <input type="button" value="9" name="pagina_nro" />
+            <input type="button" value="10"name="pagina_nro" />
+        </div>
+        <div id="preout-pages" class="preout"> ...paginas... </div>
+
+        <div id="inp">
+            <input type="button" title="hoy / desde" id="hoy"/>
+            <input type="button" value="-1" id="atras"/> 
+            <input type="range" value="0" max="6" min="0" id="range">
+            <input type="button" value="+1" id="adelante"/>
+            <input type="button" title="hasta" id="fin"/>             <em>|</em>   
+            <input type="button" value="0" name="dia_nro" />
+            <input type="button" value="1" name="dia_nro" />
+            <input type="button" value="2" name="dia_nro" />
+            <input type="button" value="3" name="dia_nro" />
+            <input type="button" value="4" name="dia_nro" />
+            <input type="button" value="5" name="dia_nro" />
+            <input type="button" value="6" name="dia_nro" />
+        </div>
+
+        <div id="preout" class="preout"></div>
+        <ul id="out"></ul>
+        <input type="button" value="limpiar" id="limpiar"/>
+    </body>
+</html>
