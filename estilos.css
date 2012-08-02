@@ -1,31 +1,33 @@
-body                { padding:1em;}
-ul, ul li           { list-style: none; margin-left: -40px;}
-input[type="button"]{ padding:0.65em;}
+body                { padding:1em;                            }
+ul, ul li           { list-style: none; margin-left: -40px;   }
+input[type="button"]{ padding:0.65em;                         }
 hr                  { border:none; border-top:1px dotted gray;}
-em                  { color:#cacaca;}
-b                   { font-weight:bold;}
+em                  { color:#cacaca;                          }
+b                   { font-weight:bold;                       }
+
 .preout{
-    border:1px dotted SteelBlue;
-    margin:0.7em 0;
+    border:        1px dotted SteelBlue;
+    margin:        0.7em 0;
     border-radius: 0.2em;
-    padding:1em 0.7em;
-    background:LightCyan;
-    color:SteelBlue;
+    padding:       1em 0.7em;
+    background:    LightCyan;
+    color:         SteelBlue;
 }
 #out{
-    border:1px dotted gray;
-    background:whitesmoke;
-    margin:0.7em 0;
-    height: 203px;
-    overflow:auto;
+    border:        1px dotted gray;
+    background:    whitesmoke;
+    margin:        0.7em 0;
+    height:        203px;
+    overflow:      auto;
     border-radius: 0.2em;
 }
 #out li{
-    padding:0.3em 0.7em; 
-    border-bottom:1px dotted gray;
-    background: #eaeaea;
-    color:gray;
+    padding:       0.3em 0.7em;
+    border-bottom: 1px dotted gray;
+    background:    #eaeaea;
+    color:         gray;
+    border-radius : 5px;
 }
 .consola{
-    margin:0 0 0.7em 0;
+    margin:        0 0 0.7em 0;
 }

@@ -1,0 +1,105 @@
+http://vimeo.com/26963384   Node Tuts - Kue Jobs
+http://vimeo.com/31613694   Node Tuts episode 29
+http://vimeo.com/23763858   Node Tuts - episode 23 - express resources
+http://vimeo.com/33224158   Node Tuts - Episode 30 - CouchDB and Nano
+http://vimeo.com/33407241   Node Tuts - episode 31 - Konphyg - Cascading Configuration Files
+http://vimeo.com/36233941   How to deploy Django on Heroku
+http://vimeo.com/1591487    Massdelete Action in Django Admin
+http://vimeo.com/12130350   GeekFest2010 08 django
+http://vimeo.com/31372301   Django CMS and Zinnia - Python
+http://vimeo.com/18543914   Full Web Framework Django Tutorial III Blog - Django Project Structure
+http://vimeo.com/45859609   django-aula2-parte-1
+http://vimeo.com/45938396   django-aula8-parte-2
+http://vimeo.com/45497695   Frontend editing in django CMS
+http://vimeo.com/26958849   Making Reusable Django Apps (Sean O'Donnell)
+http://vimeo.com/3879985    Django Tips - Tip #4 - Part 1
+http://vimeo.com/30784259   Taller django betabeers
+http://vimeo.com/18962987   Como funciona o curso Welcome to the Django
+http://vimeo.com/1624166    Screencast 2: Using Logging in Django
+http://vimeo.com/4902952    Django + jQuery = Ajax Chat
+http://vimeo.com/32413463   @jefersonm - Django
+http://vimeo.com/4814380    Django Admin Playground
+http://vimeo.com/6507384    Coding Django "polls" tutorial in web2py
+http://vimeo.com/6512441    Django JumpToAdmin Screencast
+http://vimeo.com/31577853   Dojo-Python-Django-1
+http://vimeo.com/11970054   Django Beginner Tutorial Part I
+http://vimeo.com/8741012    Django youtube Syncronizer
+http://vimeo.com/14884657   Criando um blog no Django
+http://vimeo.com/5767517    Using git with Django Screencast
+http://vimeo.com/40274927   GeoDjango Test
+http://vimeo.com/14083290   Ajax in Django (Artur Cistov)
+http://vimeo.com/1665004    Django In Under A Minute
+http://vimeo.com/15235999   django-sentry
+http://vimeo.com/7126991    Django CMS: Frontend editing
+http://vimeo.com/5027645    Setting up Django Development in Eclipse with Code Complete and Graphical Debugging
+http://vimeo.com/2920686    Django Study Disc.7 / geodjango / tmatsuo
+http://vimeo.com/8844236    Local Django and Python documentation with Fluid
+http://vimeo.com/6737458    The State of Django - Jacob Kaplan-Moss
+http://vimeo.com/8036568    Filmaster / Django + Python / Jesien Linuksowa 2009
+http://vimeo.com/26568847   Django Code Completion in Gedit 2
+http://vimeo.com/3311950    Django auf dem iPod touch
+http://vimeo.com/2920921    Django Study Disc.7 / ContentTypes / tokibito
+http://vimeo.com/8357817    Django First Run on Google App Engine
+http://vimeo.com/31080647   django/rails webdebs - part 1/5
+http://vimeo.com/3042639    Applescript + Quicksilver == Spiffy Django Dev Environment
+http://vimeo.com/31084238   django/rails webdebs - part 4/5
+http://vimeo.com/19122124   Emencia Django Newsletter (EDN) - Baccarat case study
+http://vimeo.com/1699590    django-logging extended with textmate urls
+http://vimeo.com/1636490    Screencast 3: Using pdb
+http://vimeo.com/10515200   Using Pinax and Django For Collaborative Corpus Linguistics
+http://vimeo.com/13795558   Django - Um Framework Web Para Perfeccionistas Com Prazos
+http://vimeo.com/42564239   Apresentação Curso de Django - PyCursos
+http://vimeo.com/8314051    December Meeting - Advanced Python in Django and Spinning, or Redising the block
+http://vimeo.com/14082994   I love WingIDE! And Django (Tim Kersten)
+http://vimeo.com/18544106   Full Web Framework Django Tutorial IV Blog - Create First Application
+http://vimeo.com/44068706   How to setup django project to be debugged in Aptana
+http://vimeo.com/23286176   Présentation Django à Supinfo Grenoble -2010-
+http://vimeo.com/12105022   I did Chat - How To
+http://vimeo.com/20400732   Full Web Framework Python Django Tutorial XIII Blog - Serve Files - Linux/Ubuntu/Windows
+http://vimeo.com/20149090   Full Web Framework Python Django Tutorial XI Blog - Advanced Template - Linux/Ubuntu/Windows
+http://vimeo.com/23771511   Python Ireland May 2011 - What is Pyramid and where is it with respect to Django? (Part 2 of 2)
+http://vimeo.com/1649791    Debugging management commands and unit tests
+http://vimeo.com/27294190   day 2 off the grid
+http://vimeo.com/9982657    January Meeting - MongoDB
+http://vimeo.com/27294477   day 3 off the grid
+http://vimeo.com/25385510   LocalWiki code walkthrough #1
+http://vimeo.com/27002811   day 12
+http://vimeo.com/29486574   Empréstimos CPC
+http://vimeo.com/22218066   Como usar um repositório git [no github] usando a linha de comando
+http://vimeo.com/32218319   16/11 [paainel] Integração com Wiki
+http://vimeo.com/28662119   Testes com WSGI e custom tags do Django
+http://vimeo.com/39213968   Full Web Framework Python Django Tutorial XVI Blog - CSRF in Forms - Windows/Linux/Ubuntu
+http://vimeo.com/11359226   Primeros pasos para tener la calefacción controlada por web
+http://vimeo.com/8741012    Django youtube Syncronizer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
